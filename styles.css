@@ -97,7 +97,7 @@ form{
     margin: 30px auto;
     cursor: pointer;
     border-radius: 5px;
-    /* display: none; */
+    display: none; 
 }
 
 @media screen and (max-width: 768px){
